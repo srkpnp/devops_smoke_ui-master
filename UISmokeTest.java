@@ -18,7 +18,7 @@ public class UISmokeTest {
 
    public void uiSmokeTest() {
 
-	   System.setProperty("webdriver.gecko.driver", "/home/manojkumar_ibt/geckodriver");
+	   System.setProperty("webdriver.gecko.driver", "/home/srkpnp_ibt/geckodriver");
 	   
        FirefoxDriver driver = new FirefoxDriver();
 
